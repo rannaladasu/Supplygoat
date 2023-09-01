@@ -21,7 +21,8 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "@nrwl/angular": "14.3.6"
+    "@nrwl/angular": "14.3.6",
+    "forever": "2.0.0"
   },
   "comments": {
     "//": "a9 insecure components"
